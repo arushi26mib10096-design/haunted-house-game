@@ -42,7 +42,7 @@ python main.py
 ![Exploration](exploring.png)
 
 ### Picking up the key
-![Picking up the key](picking_the_key.png.png)
+![Picking up the key](picking_the_key.png)
 
 ### Ghost ending
-![Ghost ending](ghost_ending.png.png)
+![Ghost ending](ghost_ending.png)
